@@ -8,7 +8,7 @@ This is a repository with 4k wallpapers of all the logos created by [@SAWARATSUK
 ![Wallpapers](./walls.png)
 
 ## How to use
-Please edit [script.py](script.py) to change the background color and the size of the logo.
+Please edit [script.py](../script.py) to change the background color and the size of the logo.
 
 ## Future plans
 - Add background image file
